@@ -1,2 +1,1 @@
-# currency-converter
-currency converter is an application that allows users to convert between different currencies.
+Build a Currency Converter with React JS and Tailwind CSS
